@@ -30,7 +30,6 @@ def edit():
         case _:
             print("Opção nao encontrato")
             e1=int(input("qual parte você deseja alterar?\n1-Nome\n2-Telefone"))
-        
     
 def lis():
     os.system('cls')
